@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Ubuntu
 ```
-* freeglut3-dev
+freeglut3-dev xorg-dev
 ```
 
 ### Arch Linux
