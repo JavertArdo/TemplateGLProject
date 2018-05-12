@@ -6,3 +6,14 @@ Simple CMake OpenGL Template Project
 * GLUT Library
 
 ## Dependencies
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
+
+### Ubuntu
+```
+* freeglut3-dev
+```
+
+### Arch Linux
+```
+libglvnd
+```
