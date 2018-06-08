@@ -3,6 +3,7 @@ Simple CMake OpenGL Template Project
 * C++ 11
 * CMake 3.11
 * GLFW Library
+* GLEW Library
 * GLUT Library
 
 ## Dependencies
@@ -15,5 +16,5 @@ sudo apt install freeglut3-dev xorg-dev
 
 ### Arch Linux
 ```
-sudo pacman -S libglvnd
+sudo pacman -S libglvnd glew
 ```
